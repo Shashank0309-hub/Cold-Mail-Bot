@@ -9,7 +9,7 @@ SUBJECT = '''
     '''
 MAIL_BODY = '''Hi {name},
 
-I hope you’re doing well. I’m currently working as an **AI Backend Engineer** at Inviz Labs and recently came across an opening for a **{position}** role at **{company}**. I’d love to apply and would truly appreciate it if you could consider referring me.  
+I hope you’re doing well. I’m currently working as an AI Backend Engineer at Inviz Labs and recently came across an opening for a {position} role at {company}. I’d love to apply and would truly appreciate it if you could consider referring me.  
 
 Why me?  
 - ~3 years of experience building scalable AI/ML solutions.  
